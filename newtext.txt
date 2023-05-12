@@ -1,2 +1,3 @@
 this i sthe new file to be uploaded to git .
-cd..
+I am coming here after watching video 12th of CODE WITH HARRY 
+changed again to check v
