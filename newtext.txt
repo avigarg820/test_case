@@ -1,0 +1,2 @@
+this i sthe new file to be uploaded to git .
+cd..
