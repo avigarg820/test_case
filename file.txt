@@ -1,9 +1,0 @@
-THIS I SA FILE TO BE PUSHED TO GITHUB
-THIS IS JUST AN EXAMPLE 
-STEPS: 
-1. i have to start git init , 
-2. git astatus, git add <filename>, git status--> the file added will start to indicate in green
-means it is already staged , git commit -m "here initial commit message comes to tell about the file "
-use git status, git log to check tall the commits done so far,
-
-NOW ALL THE FILES HAVE BEEN ADDED T THE DSTAGEING AREA & ARE NOW READY FOR THE COMMIT AND PUSHING
