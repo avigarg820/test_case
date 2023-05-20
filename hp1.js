@@ -61,5 +61,26 @@ function sum(a,b){
 //         Bonus: 'No prior knowledge'  
 //     })
 // })
+// ------------ -------- - - -        --------     ----------------- -------- ------------- ----------- ---------
 
+
+/* practising the json objects and JSON format:
+
+
+const Myjson ='{"n1":"katherine langfort","n2":"rashmika mandhana","n3":"smriti mandhana"}'
+const myobj = JSON.parse(Myjson)
+let text =""
+for (const x in myobj){
+    text+=myobj[x]+ ' ,'
+    console.log(text)
+}*/
+
+// arrays in objects
+/*const brand={
+    "name":"BMW1",
+    "model":"IX",
+    "owner":"avi",
+    "year":["2017","2018","2020","upto 2028"]
+}
+console.log(brand["year"])*/
 
